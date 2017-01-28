@@ -1,1 +1,5 @@
-#include<
+#include<stdio.h>
+main()
+{
+	printf("what the hell is github?");
+}
